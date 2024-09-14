@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Correr 30min todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Alongar todas as manhãs",
+    "checked": false
+  },
+  {
+    "value": "estudar 5h por dia",
+    "checked": false
+  }
+]
